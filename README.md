@@ -1,4 +1,4 @@
-Hi 👋 My name is Nazifa Salma
+Hey 👋 My name is Nazifa Salma
 =============================
 
 Frontend Developer and React Developer
