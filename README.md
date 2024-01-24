@@ -1,4 +1,4 @@
-Hi 👋 My name is Izazul Haque
+Hi 👋 My name is Nazifa Salma
 =============================
 
 Frontend Developer and React Developer
@@ -7,10 +7,10 @@ Frontend Developer and React Developer
 A Detail-Oriented Engineering Student and a fresher looking for an opportunity to help a organisation with my Development Skills and Technical Knowledge
 
 * 🌍  I'm based in Assam,India
-* ✉️  You can contact me at [izazhossain2120@gmail.com](mailto:izazhossain2120@gmail.com)
+* ✉️  You can contact me at [nazifasalmalk@gmail.com](mailto:nazifasalmalk@gmail.com)
 * 🧠  I'm learning Avanced level Javascript and SCSS ,React Js and MySQL
 * 🤝  I'm open to collaborating on I am very much interested in working on Fronted Projects and the projects related to React Js.
-* ⚡  Hey ,I am a Akcidental Engineer. But don't tell anyone.🤫
+* ⚡  Hey ,I am a Mewoo. But don't tell anyone.🤫
 
 <a href="https://www.github.com/IzazHussain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IzazHussain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
